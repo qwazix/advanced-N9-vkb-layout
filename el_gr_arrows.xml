@@ -142,20 +142,20 @@
      <row height="small">
 	  <spacer/>
           <key width="x-large">
-              <binding label="←" action="left"/>
-              <binding shift="true" label="←" action="left"/>
+              <binding action="left"/>
+              <binding shift="true" action="left"/>
           </key>
           <key width="x-large">
-              <binding label="↑" action="up"/>
-              <binding shift="true" label="↑" action="up"/>
+              <binding action="up"/>
+              <binding shift="true" action="up"/>
           </key>
           <key width="x-large">
-              <binding label="↓" action="down"/>
-              <binding shift="true" label="↓" action="down"/>
+              <binding action="down"/>
+              <binding shift="true" action="down"/>
           </key>
           <key width="x-large">
-              <binding label="→" action="right"/>
-              <binding shift="true" label="→" action="right"/>
+              <binding action="right"/>
+              <binding shift="true" action="right"/>
           </key>
 	  <spacer/>
       </row>
@@ -283,8 +283,8 @@
           <binding shift="true" label="Μ"/>
         </key>
         <key>
-            <binding label="↑" action="up"/>
-            <binding shift="true" label="↑" action="up"/>
+            <binding action="up"/>
+            <binding shift="true" action="up"/>
         </key>
         <key style="special">
           <binding action="backspace"/>
@@ -306,16 +306,16 @@
         </key>
 	  <spacer/>
           <key>
-              <binding label="←" action="left"/>
-              <binding shift="true" label="←" action="left"/>
+              <binding action="left"/>
+              <binding shift="true" action="left"/>
           </key>
           <key>
-              <binding label="↓" action="down"/>
-              <binding shift="true" label="↓" action="down"/>
+              <binding action="down"/>
+              <binding shift="true" action="down"/>
           </key>
           <key>
-              <binding label="→" action="right"/>
-              <binding shift="true" label="→" action="right"/>
+              <binding action="right"/>
+              <binding shift="true" action="right"/>
           </key>
 	  <spacer/>
       </row>
